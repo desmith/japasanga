@@ -1,0 +1,22 @@
+/* CSS Document */
+
+body {
+	text-align: center;
+	background: #000;
+	
+}
+
+.body-text {
+	color: #999;
+	margin: 50px auto;
+}
+
+.verse {
+	font-style: italic;
+}
+
+.translation {
+	position: relative;
+	left: 25%;
+	width: 50%;
+}

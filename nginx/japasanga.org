@@ -1,0 +1,13 @@
+server {
+
+  server_name 
+    .japasanga.org
+  ;
+
+  root /var/www/japasanga.org;
+
+  include conf.d/common.conf;
+
+  ssi  on;
+
+}
